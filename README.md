@@ -84,7 +84,7 @@ As a team member, I focused on analyzing weather pattern impacts on ridership an
 
 ## Tools & Technologies Used
 - Power BI for data visualization and analysis
-- SQL for data querying and aggregation
+- Power BI DAX and SQL for data querying and aggregation
 - Statistical analysis to identify usage patterns and correlations
 
 ## Project Context
