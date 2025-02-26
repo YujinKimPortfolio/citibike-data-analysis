@@ -1,12 +1,17 @@
 # CitiBike Usage Optimization Analysis
 
-## Project Overview
-This project analyzes CitiBike's bike-sharing system usage patterns in New York City to identify optimization opportunities. Our team, Fourcast, developed a comprehensive strategy to address system imbalances, weather-dependent usage patterns, and time-of-day variation to improve rider experience and operational efficiency.
-
 ![CitiBike Logo](presentation/citibike_logo.png)
+
+## Project Overview
+This project analyzes CitiBike's bike-sharing system usage patterns in New York City to identify optimization opportunities. Our team developed a comprehensive strategy to address system imbalances, weather-dependent usage patterns, and time-of-day variation to improve rider experience and operational efficiency.
+
+## View the Full Presentation
+📊 [View Full Presentation (PDF)](./TO%20450%20-%20Citi%20Bike%20Project%20-%20Fourcast%20(2).pdf)
 
 ## Problem Statement
 CitiBike's system faces several operational challenges:
+
+![Usage by Time of Day](presentation/time_usage.png)
 
 1. **Unbalanced Station Usage**: Some stations have too many bikes while others have too few, creating distribution issues across the network.
 
@@ -14,26 +19,11 @@ CitiBike's system faces several operational challenges:
 
 3. **Weather Dependency**: Ridership drops significantly during subpar weather conditions, making revenue highly dependent on favorable weather.
 
+![Weather Impact](presentation/weather_impact.png)
+
 4. **Seasonal Variation**: Summer months see over-capacity while winter months experience under-capacity.
 
 5. **Ineffective Incentive Program**: The current Bike Angels program has limitations including exploitation by some users, limited scope, and lack of weather/time-based incentives.
-
-## Key Findings
-
-### Station Usage Analysis
-- Bike distribution is significantly imbalanced across the network
-- Neighborhoods in outer boroughs experience more unusable stations (no bikes/no docks)
-- Certain high-traffic routes create predictable imbalances
-
-### Time Analysis
-- Peak usage occurs during 8-9 AM and 5-7 PM commute hours
-- Weekdays have higher ridership than weekends
-- Non-subscribers represent 15% of customers but 30% of total ride time
-
-### Weather Impact Analysis
-- Strong correlation between temperature and ridership
-- Precipitation dramatically reduces system usage
-- Winter months see significantly lower ridership
 
 ## Our Solution: Enhanced Incentive Program
 
@@ -64,8 +54,7 @@ We propose replacing the current Bike Angels program with a comprehensive incent
 - **Improved User Experience**: Better bike availability across all stations
 - **Revenue Stabilization**: Less dependency on weather conditions
 - **Greater System Equity**: Better service in historically underserved communities
-- **Sustainability**: Lower reliance on trucks for rebalancing
-
+  
 ## Project Deliverables
 - Comprehensive data analysis of system usage patterns
 - Strategic recommendations for incentive program redesign
