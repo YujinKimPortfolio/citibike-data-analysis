@@ -6,7 +6,7 @@
 This project analyzes CitiBike's bike-sharing system usage patterns in New York City to identify optimization opportunities. Our team developed a comprehensive strategy to address system imbalances, weather-dependent usage patterns, and time-of-day variation to improve rider experience and operational efficiency.
 
 ## View the Full Presentation
-📊 [View Full Presentation (PDF)](./citibike-data-analysis/presentation/final-presentation-slides.pdf)
+📊 [View Full Presentation (PDF)](./presentation/final-presentation-slides.pdf)
 
 ## Problem Statement
 CitiBike's system faces several operational challenges:
